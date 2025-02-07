@@ -3,7 +3,7 @@
 -->
 
 Bağlantılar;
-[Discord](https://https://discord.com/users/385427979066540035) | [Website](https://stallwart.dev) | [BlackfireBot](https://www.blackfirebot.net)
+[Discord](https://https://discord.com/users/385427979066540035) | [Website](https://stallwart.dev) 
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=stallwart&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true" />
